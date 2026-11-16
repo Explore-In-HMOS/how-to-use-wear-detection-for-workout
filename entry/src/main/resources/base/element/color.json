@@ -1,0 +1,12 @@
+{
+  "color": [
+    { "name": "start_window_background", "value": "#000000" },
+    { "name": "success", "value": "#34C759" },
+    { "name": "warning", "value": "#FF9F0A" },
+    { "name": "error", "value": "#FF453A" },
+    { "name": "neutral", "value": "#8E8E93" },
+    { "name": "accent", "value": "#0A84FF" },
+    { "name": "card", "value": "#1C1C1E" },
+    { "name": "heart", "value": "#FF375F" }
+  ]
+}

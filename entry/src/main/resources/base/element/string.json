@@ -1,0 +1,27 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Wear detection workout sample" },
+    { "name": "EntryAbility_desc", "value": "Validates workout data with wear detection" },
+    { "name": "EntryAbility_label", "value": "WornCheck" },
+    { "name": "reason_heart_rate", "value": "Measure your heart rate during the workout" },
+    { "name": "btn_start", "value": "Start" },
+    { "name": "btn_pause", "value": "Pause" },
+    { "name": "btn_resume", "value": "Resume" },
+    { "name": "btn_finish", "value": "Finish" },
+    { "name": "btn_new_workout", "value": "New workout" },
+    { "name": "btn_remove_watch", "value": "Remove watch (sim)" },
+    { "name": "btn_wear_watch", "value": "Put on watch (sim)" },
+    { "name": "auto_pause_after", "value": "Auto-pause after" },
+    { "name": "auto_resume", "value": "Auto resume" },
+    { "name": "simulated_sensors", "value": "Simulated sensors" },
+    { "name": "active_subscriptions", "value": "Active subscriptions" },
+    { "name": "summary", "value": "Workout summary" },
+    { "name": "summary_active_time", "value": "Active time" },
+    { "name": "summary_valid_ratio", "value": "Valid samples" },
+    { "name": "summary_removals", "value": "Times removed" },
+    { "name": "summary_removed_time", "value": "Time removed" },
+    { "name": "banner_back_on_wrist", "value": "Watch is back on the wrist. Resume?" },
+    { "name": "banner_unfiltered", "value": "Wear detection is not supported. Data is not filtered." },
+    { "name": "event_log", "value": "Event log" }
+  ]
+}
